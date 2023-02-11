@@ -33,7 +33,7 @@ ext {
     set('commonsIoVersion', "2.11.0")
     set('opencsvVersion', "5.7.1")
     set('archunitVersion', "1.0.0")
-    set('datafakerVersion', "1.6.0")
+    set('datafakerVersion', "1.8.0")
     set('awaitilityVersion', "4.2.0")
     set('hypersistenceUtilsVersion', "3.1.1")
 }
