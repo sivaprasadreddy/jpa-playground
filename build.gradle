@@ -35,7 +35,7 @@ ext {
     set('archunitVersion', "1.0.0")
     set('datafakerVersion', "1.6.0")
     set('awaitilityVersion', "4.2.0")
-    set('hypersistenceUtilsVersion', "3.1.1")
+    set('hypersistenceUtilsVersion', "3.2.0")
 }
 
 dependencies {
